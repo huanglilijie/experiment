@@ -1,0 +1,15 @@
+{
+  "name": "createproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ct":"node tools/create"
+  },
+  "author": "huanglijie",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
+}
